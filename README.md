@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Movie_Data_Sentiment_Analysis
 =======
 # 🎬 **Movie Data Sentiment Analysis**
